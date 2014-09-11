@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PersianDatePicker">
+        <attr name="year" format="integer" />
+        <attr name="month" format="integer" />
+        <attr name="day" format="integer" />
+    </declare-styleable>
+
+</resources>

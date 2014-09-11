@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:pdp="http://schemas.android.com/apk/res/com.example.persiandatepicker"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${packageName}.${activityClass}" >
+
+    <com.example.persiandatepicker.PersianDatePicker
+        android:id="@+id/persianDatePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" 
+        pdp:year="1394"
+        pdp:month="7"
+        pdp:day="20">
+    </com.example.persiandatepicker.PersianDatePicker>
+
+</RelativeLayout>
