@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DatabaseTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">نام:</string>
+    <string name="hint_family">نام خانوادگی:</string>
+    <string name="save">ذخیره</string>
+    <string name="title_activity_person_list">PersonListActivity</string>
+    <string name="goToList">لیست افراد</string>
+</resources>
